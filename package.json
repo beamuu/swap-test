@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutchanonc/swap-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutchanonc/swap-test/issues"
+  },
+  "homepage": "https://github.com/nutchanonc/swap-test#readme",
+  "dependencies": {
+    "web3": "^1.6.0"
+  }
+}

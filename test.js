@@ -7,13 +7,13 @@ const token2 = require("./token2");
 const router = require("./router");
 
 const addresses = {
-    Factory: "0x92d822D2aAE25a9C7D260b2B535690F04Cd32fd8",
-    Token1: "0x4Ac4CAe260c0b64a94d6a391EB2F19F5311c44aB",
-    Token2: "0x133a4A917e00d3030c93450b4Cc99576b822F554",
-    WETH: "0x69D6d0dE4Df3340C83C9b93EBDdD6c7603B769a7",
-    Router: "0xb4fC8d2177De2422C412De9187C995a77Ba2657e",
+    Factory: "0x9f45793D732FCa933B57221FF1aCb559CacE96f5",
+    Token1: "0x50D11C4539bA019781ee1c26D180B502538dD14d",
+    Token2: "0x8A587C1477b8a790217EE92d6b7c32cF4f7b3b27",
+    WETH: "0x4c2Da59460ec7aaB624385465F8D8e08F50847E7",
+    Router: "0x9A8eb5556836E4D69c9ECF415834a20073C17279",
     Pair1: "",
-    owner: "0x304135fAefd0d9A52C6Bf5aC7cD953c4d026169d",
+    owner: "0x31e2DCD46bb721e362a403245205205642cAEA34",
 }
 const web3 = new Web3(
     new Web3.providers.HttpProvider(
